@@ -1,2 +1,2 @@
-# traffic_detection
-Detect traffic and lines on the road
+# Highway Lane Detection
+Detect traffic and lanes on the highway
